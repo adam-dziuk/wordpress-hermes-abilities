@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Hermes SEO Abilities
  * Description:       A minimal set of Abilities for an SEO agent. Drafts only — no publishing, deletion, media, or settings.
- * Version:           1.2.0
+ * Version:           1.0.0
  * Requires at least: 6.9
  * Requires PHP:      7.4
  * Author:            DD Systems - custom IT systems
